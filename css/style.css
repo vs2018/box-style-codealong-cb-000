@@ -46,7 +46,8 @@ figcaption {
   background-size: cover;
 }
 
-/* LIGHT-FADE */
+.light-fade {
+  /* LIGHT-FADE */
  
 background: #efefef; /* Old browsers */
 background: -moz-linear-gradient(
@@ -94,6 +95,7 @@ background: linear-gradient(
   #dddddd 100%
 ); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endColorstr="#dddddd", GradientType=0); /* IE6-9 */
+}
 
 /*/////// MEDIA ////////*/
 
